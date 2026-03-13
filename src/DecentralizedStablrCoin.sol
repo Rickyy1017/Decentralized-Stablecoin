@@ -11,7 +11,7 @@ import {Ownable} from "../lib/openzeppelin-contracts/contracts/access/Ownable.so
  * Minting: Algorithmic
  * Stability Anchored to USD
  * 
- * This
+ * 
  */
 
 contract DecentralizedStableCoin is ERC20Burnable, Ownable{
